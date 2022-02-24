@@ -4,43 +4,54 @@ h1 {
     color:navy;
     text-align:center;
 }
+
 #biografia {
     font-family:'Gideon Roman', Times, serif;
     font-size:50px;
     text-align:justify;
 }
+
 #carreira {
     font-size:50px
 }
+
 body {
     background-color:#90E0EF;
     color:navy;
     padding:50px;
 }
+
 strong {
     font-style:italic;
     text-decoration: dotted;
     color:blueviolet;
 }
+
 .ingles {
     font-size:39px;
 }
+
 .espanhol {
     font-size:38px;
 }
+
 .contas {
     font-size:37px;
 }
+
 .xadrez {
     font-size:36px;
 }
+
 .cervejas {
     font-size:35px;
 }
+
 #habilidades {
     font-size:40px;
     text-decoration:underline;
 }
+
 #photo {
     border-radius:30%;
     width:20%;
@@ -48,13 +59,16 @@ strong {
     margin-right:auto;
     display:block;
 }
+
 #voltar-photo {
     font-size:30px;
 }
+
 #reveja {
     font-size:40px;
     text-decoration:underline;
 }
+
 .coisas {
     font-size:30px;
     text-decoration:none;
