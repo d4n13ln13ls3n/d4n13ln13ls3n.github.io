@@ -7,8 +7,12 @@ h1 {
 
 #biografia {
     font-family:'Gideon Roman', Times, serif;
-    font-size:50px;
+    font-size:30px;
     text-align:justify;
+    padding-right: 30px;
+    left: 450px;
+    right:60px;
+    position:absolute;
 }
 
 #carreira {
@@ -53,11 +57,15 @@ strong {
 }
 
 #photo {
-    border-radius:30%;
+    border-radius:1%;
     width:20%;
     margin-left:auto;
     margin-right:auto;
     display:block;
+    float:left;
+    height: 280px;
+    padding: 10px;
+    background-color: darkslategray;
 }
 
 #voltar-photo {
@@ -73,4 +81,16 @@ strong {
     font-size:30px;
     text-decoration:none;
     color:navy;
+}
+
+div {
+    border: navy solid 2px;
+}
+
+.image-container {
+    height:300px;
+}
+
+.ingles, .contas, .cervejas {
+    background-color: cornflowerblue;
 }
